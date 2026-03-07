@@ -108,3 +108,9 @@ Internal ML teams that require:
 ## Status
 
 Platform under active development.
+
+---
+
+## 👨‍💻 Author
+Ajeet Singh — DevOps & Platform Engineering
+https://github.com/singhajeet79
